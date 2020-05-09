@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Control De Gastos</string>
+    <string name="home">Home</string>
+    <string name="agregar">Agregar</string>
+    <string name="informes">Informes</string>
+    <string name="amount">Cantidad de Dinero:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transaction_description">Descripción de la transacción:</string>
+    <string name="date">Fecha:</string>
+    <string name="accept">Aceptar</string>
+    <string name="total">Total</string>
+    <string name="income">Ingresos</string>
+    <string name="outcome">Egresos</string>
+    <string name="conventions">Convenciones</string>
+</resources>
